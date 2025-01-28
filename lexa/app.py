@@ -127,7 +127,7 @@ def main():
     st.header("📚 Lexa - A Multi PDF Agent 🤖")
     
     with st.sidebar:
-        st.image("Robot.jpg")
+        st.image("C:\lexa\Robot.jpg")
         st.write("---")
         st.title("📁 PDF File's Section")
         pdf_docs = st.file_uploader("Upload your PDF Files & \n Click on the Submit & Process Button ",
