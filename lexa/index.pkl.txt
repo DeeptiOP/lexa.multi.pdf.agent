@@ -1,0 +1,345 @@
+���9      �&langchain_community.docstore.in_memory��InMemoryDocstore���)��}��_dict�}��$1d9e9359-e204-41f4-ae09-48cbf77277e3��langchain_core.documents.base��Document���)��}�(�__dict__�}�(�id�h �metadata�}��page_content�XA8  Main functions of Respiratory System
+Organs of Respiratory System
+LungAlveoli
+(Balloon shaped air sacs)Organs in the Respiratory System
+STRUCTURE FUNCTION
+Nose / nasal cavity Warms, moistens, &filters airasitisinhaled
+Pharynx (throat) Passageway forair,leads totrachea
+Larynx Thevoice box, where vocal cords arelocated
+Trachea (windpipe)Trachea islined with finehairs called cilia which filter
+airbefore itreaches thelungs
+BronchiTwo branches attheendofthetrachea, each lead to
+alung
+BronchiolesAnetwork ofsmaller branches leading from the
+bronchi intothelung tissue &ultimately toairsacs
+AlveoliThe functional respiratory units inthelung where
+gases areexchanged
+DiaphragmAdome -shaped muscle thatseparates thelungs from
+theabdomenLungsFunctional division of respiratory system
+Two parts :
+1)Conductive zone :main function istofilter, warm, andmoisten
+airand conduct itinto thelungs .These include nose, nasal cavity,
+pharynx, larynx, trachea, bronchi, bronchioles .
+2)Respiratory zone :main sites forgas exchange between air
+andblood .These include bronchioles, alveolar ducts, alveolar sacs and
+alveoli .
+What is breathing?
+▪It is a physical process by which organisms obtain oxygen from the air and 
+release carbon dioxide.
+What is cellular respiration?Respiration process: Breathing and cellular 
+respirationRespiration process and its four events 
+Pulmonary 
+ventilation External 
+respiration 
+or 
+pulmonary 
+exchange of 
+gasesRespiratory gas 
+transportInternal respiration 
+or Systemic 
+exchange of gases 
+Pulmonary Ventilation/Breathing
+•Pulmonary ventilation isamechanical process depends onvolume changes inthethoracic
+cavity .Volume changes lead topressure changes, which leads totheflow ofgases to
+equalize pressure .
+•Two phases ofpulmonary ventilation/breathing
+➢Inhalation (Inspiration), and
+➢Exhalation (Expiration)
+Inspiration :During inspiration (inhalation),
+thediaphragm and intercostal muscles
+contract due towhich there isexpansion
+ofribcage and lungs and increase in
+thoracic cavity .External airispulled into
+thelungs duetoincrease inthevolume of
+thoracic cavity .
+Exhalation :During exhalation, intercostal muscles relax .The diaphragm moves upwards due
+towhich ribcage contracts and lungs arecompressed .Asaresult, airispushed outofthe
+lungs .
+❖External respiration /Pulmonary exchange ofgases istheexchange ofgases
+between oxygen intheairand blood capillaries inthealveoli .Diffusion ofgases
+between lungs -alveoli andblood .
+•Oxygen diffuses from alveoli intoblood .
+•Carbon dioxide simultaneously diffuses inopposite direction .
+Blood haslowPO2(40mmHg)while PO2inalveoli airis104mmHg.
+Blood hashigh CO2(45mmHg)compared toalveoli air(40mmHg).
+❖Internal respiration/Systemic exchange ofgases istheexchange ofgases
+between blood andbody tissues .Cells useoxygen constantly forcellular respiration
+sopartial pressure intissue islow.Tissue produce large quantities ofCO2as
+biochemical waste products sopartial pressure ishigh.External respiration and internal respiration•Pulmonary exchange ofgases (between lungs and blood) and
+Systemic exchange ofgases (between blood andbody tissues)
+Transport of respiratory gases
+1) Oxygen transport from lungs to body tissues
+2) Carbon -dioxide transport from body tissues to lungs
+Transport of respiratory gases in the blood
+•O2+Fe2+-Haemoglobin (Hb)→
+HbO2(oxyhemoglobin) ---98.5%
+•Oxyhemoglobin carries 1-4
+molecules ofoxygen depending onits
+degree ofsaturation .
+•Oxyhemoglobin does notdissociate
+intheblood vessel, until itreaches a
+tissue with low Po2(partial pressure
+ofoxygen) .
+•Indissolved state ,only 3%oxygen is
+transported tothetissues .
+Oxygen transport1.Indissolved state inplasma -5-7%istransported indissolved state .Upon
+reaching thelungs, itdiffuses intoalveolar airandexhaled .
+2.Bicarbonate ions:70%CO2istransported intheform ofbicarbonate ions.
+•CO2(from tissues) +H2O(water inerythrocytes)  H2CO3(Carbonic acid)
+reaction iscatalyzed byenzyme Carbonic anhydrase which ispresent in
+erythrocytes .
+• H2CO3H++ HCO3-
+•Carbonic acid that isformed immediately dissociates into Bicarbonate ions (HCO3-).
+Bicarbonate ions diffused into theplasma and reacts with sodium ions toform sodium
+bicarbonate (NaHCO3-).Inexchange ofHCO3-,chloride ions move from plasma into the
+RBCs .This exchange ofnegative ions, which maintains theelectrical balance between blood
+plasma andRBC cytosol, isknown aschloride shift.
+3.Carbamino -haemoglobin -23%ofCO2reacts with amine group ofglobin part of
+haemoglobin (Hb) forming carbamino -haemoglobin (HbCO2)Carbon -dioxide transport from tissues to lungsGas exchange at tissues level
+(Oxygen release and carbon dioxide pick up)
+Haemoglobinic 
+acid (HHb), 
+helps in 
+buffering 
+excess H+ions 
+and allowing O2 
+to be releasedOxygen -haemoglobin dissociation curve (ODC) showing the 
+relationship between hemoglobin saturation and Po2at 
+normal body temperature
+•When Po2 ishigh, the more O2
+combines with hemoglobin andisalmost
+100%saturation .
+•When Po2islow, hemoglobin isonly
+partially saturated .
+•Inpulmonary capillaries ,where Po2is
+high, alotofO2binds tohemoglobin .In
+tissue capillaries, where thePo2islower
+(40mm Hg), hemoglobin does nothold
+asmuch oxygen anddissolved Oxygen
+isunloaded viadiffusion intotissue cells.
+•Hemoglobin isstill75%saturated with
+O2ataPo2of40mm Hg,theaverage
+Po2oftissue cells inaperson atrest.
+That means only 25%oftheavailable O2
+unloads from hemoglobin andisused by
+tissue cells under resting conditions .Haemoglobin -oxygen binding
+affinityBohr effectFactors that causes shifts in the ODC -left and right shift
+Curve 
+shifted 
+to rightCurve 
+shifted 
+to left1. Which of the following is NOT the function of the respiratory system?
+a) Regulate blood pH
+b) Helps in gaseous exchange
+c) Sound production
+d) Contains receptors for the sense of smellRespiratory system sample questions
+2. Which of this statement is TRUE for pulmonary respiration?
+a) Exchange of gases between alveoli of lungs and the blood
+b) Exchange of gases between blood and tissue cells
+c) Breathing between the atmosphere and the alveoli of the lungs
+d) Production of ATP
+3. Oxygen and hemoglobin bind in a reversible manner to form______
+a) Carboxyhemoglobin
+b) Oxyhemoglobin
+c) Methoglobin
+d) Haemoglobinic acid
+4. How many oxygen molecules bound to hemoglobin to give 50% saturation?
+a) 6
+b) 4
+c) 2
+d) 75. Dissociation curve shifts to the right when
+a)CO2concentration decreases
+b)CO2concentration increases
+c)O2concentration decrease
+d)CL−concentration increase•Inheritance refers tothepassage ofhereditary traits onegeneration
+tothe next.Children/offspring resemble their parents because they
+inherit traits passed down from both parents .
+•Thebranch ofbiology thatdeals withinheritance iscalled genetics .
+What is inheritance?Some terminologies in principles of inheritance
+•Homologous chromosomes :The nuclei ofallhuman cells except gametes
+contain 23pairs ofchromosomes -thediploid number (2n).One chromosome
+ineach paircame from themother andtheother came from thefather .
+•Gene locus :thelocation ofagene onachromosome, orwithin aDNA
+molecule, iscalled gene locus .
+Forexample :“T”locus ,means gene Tlocation onachromosome .Gene T
+codes forafunctional protein orenzyme .
+•Alleles :ADNA sequence atthe‘T’locus thathasundergone mutation may
+nolonger encode afunctional enzyme .Following amutation, thelocus
+remains same, buttheDNA sequence atmutant locus isdifferent .So,
+different DNA sequences atthesame locus arecalled different alleles ofthe
+same gene .Anychange intheDNA sequence ofgene creates new allele .•Example to understand the concept of alleles:
+Trait :  Color of flower
+Purple flower  (P)                                   White flower (p)
+No pigmentation, absence of anthocyanin Purple pigmentation due to anthocyanin
+No functional enzymePurple color isformed duetoa
+specific functional enzyme
+DNA sequence at“Plocus” mutated for
+thefunctional enzyme forproduction of
+anthocyanin .mutated version isnow
+called here as“p”allele .DNA sequence at“Plocus”
+forthefunctional
+enzyme forproduction
+ofanthocyanin•Genotype :genetic composition ofanorganism fortheparticular trait.
+•Phenotype :The external appearance ofanorganism due toitsgenetic
+composition/influence ofgenes andenvironmental factors .
+•Homozygous :theindividuals having identical alleles inanallelic pairfora
+character orsame alleles ofagene atthe gene locus iscalled
+homozygous condition .
+•Example :“PP” forpurple color and“pp”forwhite color .
+•Heterozygous :theindividuals having different alleles inanallelic pairfor
+acharacter ordifferent alleles ofagene atthegene locus iscalled
+heterozygous condition .
+•Example :“Pp”forpurple color .
+•Dominant allele :Ifoutoftwodifferent allele ofagene atthelocus, one
+allele isexpressed, forms afunctional product, andshows itsphenotypic
+effect inevery generation, then thatallele isknown tobedominant over
+theother allele .
+•Forexample, genetic make upofplant with“Pp” giving purple flower
+means“P”allele isdominant over“p”allele .
+•Recessive allele :Ifoutoftwodifferent allele ofagene atthelocus, one
+allele isnotexpressed, ordonotform anyfunctional product, then that
+allele isknown toberecessive over theother alleleThree pairs of
+Homologous
+chromosomes
+Genotype/
+Genetic 
+compositionPP Pp pp
+PhenotypePurple 
+flowerPurple 
+flowerWhite 
+flowerGene locus “P”
+Homozygous Homozygous HeterozygousAllelic 
+pairs. 
+There are 
+three allelic 
+pairs for 
+gene “P” at 
+the gene 
+locusHow are alleles separated during gamete formation?
+Two alleles in “S” and 
+“s” in homologous 
+chromosomeCodominance/multiple -allele inheritance
+•Codominance :Both thealleles atthegene locus shows itsindependent affect .“ABO”
+–locus thatdetermines theblood group ofanindividual .
+•ABO locus hasthree major alleles -ABO*A ;ABO*B ;ABO*O .Also represented asIA,IB
+,IO.
+❖At“ABO” gene locus ofanindividual, two alleles arepresent and therefore, six
+genotypes arepossible .(AandBalleles aredominant while Oisrecessive)
+1 2 3IAIAIAIOIBIB
+4 5 6IBIOIAIBIOIO
+IAIAIA
+IAIOIBIB IBIOIAIBIOIOChromosomal location of ABO blood group alleles 
+Why blood group alleles are codominant and not dominant?
+•Person having blood group Ahas“A-antigen” onitsRBC’s surface,
+•Blood group Bhas“B-antigen” onitssurface ,
+•Blood group ABhas both “Aand Bantigens” expressed onRBC
+surface,
+•Ohas“noantigens” onRBC surface .
+•Thecodominant effect ofalleles isduetotheequal expression ofAand
+Bantigens ontheRBC surface .
+•Noallele isdominant over other ormasks theexpression ofother .
+Therefore, blood group alleles show thecodominance phenomenon•The human Xchromosome contains many genes that arerequired inboth sexes,
+whereas Ychromosome contains only afew genes, primarily genes related to
+maleness .
+•About 200traits have been estimated tobeX-linked compared toafew,which areY-
+linked .
+•The traits controlled bygenes located onXchromosome areoften called sex-linked
+genes, orX-linked traits .
+•Females have twodoses ofX-linked genes (because twoX-chromosome) andmales
+have only onedose .
+Female genotype : XX; males genotype : XY
+•One dose ofX-linked dominant allele produces itseffects inmales aswellasfemales
+Forexample :XHXXHY;where “H”isthedominant allele andwillshow itseffect onboth
+males andfemales .
+•Iftheallele isX-linked recessive ,then female willshow thephenotypic effect only when both
+X-chromosome hastheallele, while males willshow thephenotypic effect duetopresence of
+only oneX-chromosome
+•forexample :XhX XhY;where “h”istherecessive allele andwillshow itsphenotypic
+effect only inmales while females willbethecarrier ofrecessive allele .Females willshow its
+effect only when both theX-chromosome carries therecessive allele .X-linked inheritanceInheritance pattern of X and Y
+44+XX 44+XY Parental generation
+22+X 22+X 22+X 22+YGametes: ovam 
+in female and 
+sperm in males
+Fertilization of 
+Ovam and 
+Sperm44+XX 44+XY 44+XX 44+XY
+Female gamete
+Male gameteX X
+X XX XX
+Y XY XYFemale MalePunnet squareRed-green color blindness and haemophilia is an 
+example of X -linked recessive inheritance
+•Red-green color blindness condition ischaracterized byadeficiency in
+either red-or-green -sensitive cones .
+•Therefore, redand green areseen assame color (either redorgreen,
+depending onwhich cone ispresent) .
+•Thegene forred-green color blindness isarecessive onedesignated as“c”.
+Normal color vision ,designated as“C”dominates .
+•The C/cgenes arelocated onX-chromosomes andthus theability tosee
+colors depends entirely ontheX-chromosome .The possible combinations
+areasfollows :
+Genotype Phenotype
+XCXCNormal female
+XCXcNormal female but carrier of 
+recessive gene
+XcXc Red-green color -blind female
+XCY Normal male
+XcY Red-green color -blind maleXCXcXcY
+XC Xc Xc Y
+XC Xc
+Carrier girlXc Xc
+Color blind girl
+XC Y
+Normal boyXc Y
+Color blind boyXC Xc
+Xc
+YCarrier mother
+Gametes
+Ovamsperm
+OffspringsParentsColor blind fatherInheritance pattern of red -green color blindness
+meiosismeiosisColor blindness test chart
+•Haemophilia isalso asex-linked trait, inwhich theblood fails
+toclotorclots very slowly after aninjury .
+Genotype Phenotype
+XHXHNormal female
+XHXhNormal female but
+carrier of recessive 
+gene
+XhXhHaemophillic
+female
+XHY Normal male
+XhY Haemophillic maleXHXhXhY
+XH Xh Xh Y
+XH Xh
+Carrier girlXh Xh
+Haemophillic girl
+XH Y
+Normal boyXh Y
+Haemophillic boyXH Xh
+Xh
+YCarrier mother
+Gametes
+Ovasperm
+OffspringsParentsHaemophillic  fatherInheritance pattern of haemophiliaSample questions
+Q.1)Awoman with twogenes forhaemophilia marries anormal man.
+What willbethephenotypes ofprogeny? Choose from Options :
+A)Allsons anddaughters arehaemophillic
+B)Allnormal sons
+C)100%chances ofsons tobehemophilic andalldaughters willbethecarrier .
+Q.2)Amother with blood type Ahasachild with blood type A.Give all
+possible blood types forthefather ofthischild from theoptions below .
+a) O
+b) B, AB
+c) A, AB
+d) A, B, O
+e) A, B, AB,OQ.3)Amother ofblood type Agives birth toachild with blood type O.
+Which ofthefollowing could NOT betheblood type ofthefather?
+a) A
+b) B
+c) O
+d) AB
+e) Any of the above is a possible blood type of the father
+Q.4)Ifawoman isacarrier forcolor -blind gene, marries acolor -blind
+man, and have daughter, what isthepercent chance that shewillhave
+color blindness?
+???��type�h	u�__pydantic_extra__�N�__pydantic_fields_set__���(hhh��__pydantic_private__�Nubssb}�K h s��.
