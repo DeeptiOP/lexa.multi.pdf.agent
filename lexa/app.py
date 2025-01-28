@@ -11,15 +11,13 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.chains.question_answering import load_qa_chain
 from langchain.prompts import PromptTemplate
 from dotenv import load_dotenv
-import json
 
 # Define the required scopes
 SCOPES = ['https://www.googleapis.com/auth/generative-language']
 
 # Load your service account credentials
-service_account_info = json.loads(st.secrets["service_account"])
-credentials = service_account.Credentials.from_service_account_file(
-    "C:/lexa/lexa-449214-6c8dbe26830e.json", scopes=SCOPES)
+service_account_info = st.secrets["service_account"]
+credentials = service_account.Credentials.from_service_account_info(service_account_info, scopes=SCOPES)
 
 # Refresh the token if necessary
 credentials.refresh(Request())
